@@ -1,0 +1,27 @@
+.container {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+nav {
+  margin-bottom: 20px;
+}
+nav a {
+  margin-right: 15px;
+  text-decoration: none;
+  color: #007bff;
+}
+.page input {
+  margin-right: 10px;
+  padding: 5px;
+}
+.page button {
+  padding: 5px 10px;
+  cursor: pointer;
+}
+.page ul {
+  list-style-type: none;
+  padding: 0;
+}
+.page li {
+  margin: 5px 0;
+}
